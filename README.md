@@ -42,3 +42,4 @@ This application is configured with GitHub Actions for:
 - Docker image building
 - Security scanning
 - Publishing to GitHub Packages
+
