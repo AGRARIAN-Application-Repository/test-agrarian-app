@@ -43,3 +43,4 @@ This application is configured with GitHub Actions for:
 - Security scanning
 - Publishing to GitHub Packages
 
+
